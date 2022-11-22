@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg">
+</p>
+
+<br>
 
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/104733166/203328754-a623e41e-c18e-4a76-aafa-480cec915f1c.jpg">
@@ -26,7 +31,6 @@
 <div align="center">
 
 <img src="https://img.shields.io/twitter/follow/hacktoria?color=yellow&logo=Twitter&logoColor=yellow&style=for-the-badge">
-
 </div>
 
 <br>
