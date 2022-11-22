@@ -14,7 +14,7 @@
 
 
 
-# HACKTORIA
+# **HACKTORIA**
 ### What is Hacktoria?
 
 **Hacktoria offers a set of Capture the Flag style challenges**, named “Contracts“. These are split by difficulty level and consist of different disciplines. Varying from OSINT to Security, Logical Thinking and others. Contracts come with their own storyline, which often ties into larger stories and characters that appear in several Contracts. All are free to play and require no registration.
@@ -67,5 +67,10 @@ The Contracts, the Hacktoria website, and other material are made by one person.
 **Having fun**:
 - **We have a welcoming community with people who all have different skills. Everyone is welcome to join and learn, have fun and build their own community projects. Don’t be shy, say hello.**
 
+# Hacktoria People on Github
+
+[Check out our people](https://github.com/orgs/hacktoria/people)
+
+<img width="333"  src="https://user-images.githubusercontent.com/104733166/203344320-23401808-a0e7-4522-a9bd-d0a4ded9bb3e.png">
 
 
