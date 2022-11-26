@@ -68,6 +68,9 @@ The Contracts, the Hacktoria website, and other material are made by one person.
 **Discord Roles**:
 - Depending on your involvement with Hacktoria, several Discord roles are avilable. More clarification on these can be found on the Discord Roles page.
 
+**Discord Contracts**:
+- There are unique Contracts posted in the announcement channel in our Discord server. These contracts are only available during a certain time frame. Participation is bought with Hacktoria Coins. At the end of each Contract, you receive a uniquely numbered Contract Card.
+
 **Having fun**:
 - **We have a welcoming community with people who all have different skills. Everyone is welcome to join and learn, have fun and build their own community projects. Don’t be shy, say hello.**
 
